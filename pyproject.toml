@@ -1,0 +1,13 @@
+[project]
+name = "pac-flexp"
+version = "0.1.0-alpha"
+description = "Experimental perceptual audio codec prototype"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+  { name = "PAC / Flex-P Contributors" }
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

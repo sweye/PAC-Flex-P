@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.wav
+*.flac
+*.mp3
+*.pac
+*.flex
+*.raw
+*.zip
+.env
